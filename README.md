@@ -8,7 +8,7 @@
 
 **GlobalTalk** is an open-source alternative to Skype that specializes in international calling. Our mission is to provide affordable, high-quality international calls to both mobile and landline numbers worldwide, with transparent pricing and superior audio quality.
 
-## 🌍 [View Demo](https://globaltalk.liveupx.com)
+## 🌍 [View Demo](https://liveupx.com)
 
 ![GlobalTalk App Screenshot](https://github.com/liveupx/A-Skype-alternative-to-call-international-numbers-worldwide/raw/main/assets/images/app-screenshot.png)
 
