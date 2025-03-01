@@ -1,6 +1,6 @@
 # GlobalTalk - A Skype Alternative to Call International Numbers Worldwide
 
-![GlobalTalk Banner](https://github.com/liveupx/A-Skype-alternative-to-call-international-numbers-worldwide/raw/main/assets/images/globaltalk-banner.png)
+  <img src="https://liveupx.com/wp-content/uploads/2023/10/liveupx185x44.png" alt="LiveupX Logo" width="200">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -217,8 +217,14 @@ GlobalTalk is currently in beta. We're actively developing new features and impr
 - Twitter: [@Liveupx](https://twitter.com/liveupx)
 - Discord: [Liveupx Community](https://discord.gg/liveupx)
 
+<p align="center">
+  <img src="https://liveupx.com/wp-content/uploads/2023/10/liveupx185x44.png" alt="LiveupX Logo" width="200">
+  <br>
+  <em>Developed with ❤️ by <a href="https://liveupx.com">LiveupX</a></em>
+</p>
+
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by the GlobalTalk team and open-source community</sub>
+  <sub>Built with ❤️ by the Liveupx.com team and open-source community</sub>
 </p>
