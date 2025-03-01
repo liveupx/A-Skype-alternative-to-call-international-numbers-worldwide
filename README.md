@@ -10,7 +10,8 @@
 
 ## 🌍 [View Demo](https://liveupx.com)
 
-![GlobalTalk App Screenshot](https://github.com/liveupx/A-Skype-alternative-to-call-international-numbers-worldwide/raw/main/assets/images/app-screenshot.png)
+![A Skype Alternative to Call International Numbers Worldwide Demo](ss1.png) 
+![A Skype Alternative to Call International Numbers Worldwide Demo](ss2.png) 
 
 ## ✨ Features
 
